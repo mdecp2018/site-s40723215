@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background: #ccc;
+  background: #ccc9;
   padding: 20px;
 }
 confmenu
@@ -112,7 +112,7 @@ ul#css3menu1 a{
 	text-align:left;
 	text-decoration:none;
 	font:17px Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
-	color:#000000;
+	color:#f1f1f1;
 	cursor:pointer;
 	padding:7px 12px;
 	background-color:;
@@ -202,5 +202,6 @@ width: 195px;
 }
 body {
   margin-bottom: 120px;
+  background-image:url(https://cache.mrporter.com/journal-images/production/92240798-7bf7-45b9-8aab-8c728173c5aa)
 }
 
